@@ -1,2 +1,2 @@
 # ZeroPi_Marlin
-Zero Pi Marlin firmare code
+ZeroPi Marlin firmware code
