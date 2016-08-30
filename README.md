@@ -1,6 +1,8 @@
 # ZeroPi_Marlin
 ZeroPi Marlin firmware code
 
+# maybe a working firmware for ZeroPI board 
+
 Only supports USB printing
 
 SD card printing Currently not supported
